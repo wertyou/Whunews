@@ -9,6 +9,6 @@ Whunews 是一个社区APP(我的毕设。。。)，主要包含浏览新闻，�
 
 <img src="https://github.com/wertyou/Whunews/blob/master/file/message.jpg" width="180"  height="300"/>
 
-<img src="https://github.com/wertyou/Whunews/blob/master/file/usr.jpg" width="180"  height="300"/>
+<img src="https://github.com/wertyou/Whunews/blob/master/file/user.jpg" width="180"  height="300"/>
 </div>
 
