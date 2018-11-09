@@ -1,0 +1,92 @@
+<resources>
+
+    <string name="app_name">武大快讯</string>
+    <string name="todo"> </string>
+    <!--main layout strings-->
+    <string name="news">新闻</string>
+    <string name="video">视频</string>
+    <string name="message">动态</string>
+    <string name="user">我的</string>
+
+    <!---news layout strings-->
+    <string name="news_comment">我来说俩句…</string>
+    <string name="news_search">输入关键字</string>
+    <string name="comment_send">发送</string>
+    <string name="comment_cancel">取消</string>
+
+    <!---welcome layout strings-->
+    <string name="welcome_title">武大快讯</string>
+    <string name="welcome_sub_title">whu news</string>
+    <string name="copyright">Copyright @2017–2018</string>
+
+    <!--message layout strings-->
+    <string name="replace_background">更换图片</string>
+    <string name="take_photo">拍照</string>
+    <string name="select_photo">从相册选取</string>
+    <string name="cancel">取消</string>
+    <string name="message_all">全部动态</string>
+    <string name="send_message">发动态</string>
+    <string name="send">发送</string>
+    <string name="message_content_hint">分享新鲜事…</string>
+    <string name="feedback_content_hint">发表您的建议…</string>
+    <string name="message_user_name">沙砾</string>
+    <string name="message_send_time">11:40</string>
+
+    <!--user layout strings-->
+    <string name="user_location">武汉</string>
+    <string name="user_weather">20℃ </string>
+    <string name="login">登录</string>
+    <string name="no_login">当前无用户登录</string>
+    <string name="like">收藏</string>
+    <string name="comment">评论</string>
+    <string name="feedback">反馈</string>
+    <string name="update">检查更新</string>
+    <string name= "edit">编辑资料</string>
+    <string name="sure">确定</string>
+    <string name="input_your_nick">请输入你的昵称</string>
+    <string name="update_name_error">更新失败</string>
+    <string name="nick_is_null">用户名不能为空</string>
+    <string name="first_login">亲，先去登录一下吧</string>
+    <string name="login_out">退出登录</string>
+    <string name="is_login_out">退出登陆后您将无法查看个人信息，您确定要执行该操作吗？</string>
+    <string name="edit_user_name">更改昵称</string>
+    <string name="no_like">暂无收藏数据</string>
+    <string name="like_success">收藏成功</string>
+    <string name="like_error">收藏失败</string>
+    <string name="send_error">发表失败</string>
+    <string name="send_success">发表成功</string>
+    <string name="send_message_success">发送成功</string>
+    <string name="send_cancel">您已取消评论</string>
+    <string name="login_out_toast">已退出登录</string>
+    <string name="user_login_phone">电话号码</string>
+    <string name="user_identifying_code">验证码</string>
+    <string name="user_send_code">发送验证码</string>
+    <string name="second">%1$d秒后重新发送</string>
+    <string name="message_content">[武大快讯]验证码:%1$d,工作人员不会索取，请勿泄露！</string>
+    <string name="grant_yes">权限已经被授予</string>
+    <string name="grant_no">权限已经被拒绝</string>
+    <string name="send_again">重新发送</string>
+    <string name="not_exit_number">电话号码不存在</string>
+    <string name="input_phone">请输入电话号码</string>
+    <string name="login_success">登录成功</string>
+    <string name="id_code_error">验证码错误</string>
+    <string name="input_id">请输入验证码</string>
+    <string name="version_update">检测更新</string>
+    <string name="update_message">当前版本是最新版本</string>
+    <string name="dialog_close">关闭</string>
+    <string name="dialog_sure">确定</string>
+    <string name="bottom_line">---------------------我是有底线的---------------------</string>
+    <string name="feedback_result">我们将以短信的方式通知您的反馈结果！</string>
+    <string name="weather_forecast">预报</string>
+    <string name="weather_quality">空气质量</string>
+    <string name="weather_aqi">AQI指数</string>
+    <string name="weather_pm">PM2.5指数</string>
+    <string name="weather_suggestion">生活建议</string>
+    <string name="no_news">没有查询到相关新闻</string>
+    <string name="no_like_data">亲，您还没有收藏数据呦</string>
+    <string name="no_message_data">亲，您还没有发表过动态呦</string>
+
+    <!--Toast string -->
+    <string name="data_error">获取数据失败</string>
+    <string name="new_data">已获取最新数据</string>
+</resources>

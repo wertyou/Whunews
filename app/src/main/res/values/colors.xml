@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--main layout color-->
+    <color name="font_white">#ffffff</color>
+
+    <!-- news layout color-->
+    <color name="font_black">#000000</color>
+    <color name="font_gray">#8c8b8b</color>
+    <color name="news_comment_background">#e7e4e4</color>
+    <color name="search_news_bg">#ffffff</color>
+
+    <!--video layout-->
+
+    <!--Recycler color-->
+    <color name="line">#b6b2b2</color>
+
+    <!--user layout-->
+    <color name="gray_line">#f9f5f5</color>
+    <color name="bg_color_true">#1ff103</color>
+    <color name="btn_login_ripple_bg">#1ff103</color>
+    <color name="btn_login_bg">#ffffff</color>
+    <color name="send_message_bg_color_false">#939692</color>
+    <color name="user_location_text">#e9efe9</color>
+    <color name="user_tag">#e9efe9</color>
+    <color name="weather_background">#ffffff</color>
+    <color name="weather_item_background">#3F51B5</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#f4f0f0</color>
+    <!--message layout-->
+    <color name="bg_view">#f5f7f5</color>
+    <color name="popup_bg">#ffffff</color>
+    <color name="font_message">#ffffff</color>
+    <color name="loading">#e9e038</color>
+</resources>
