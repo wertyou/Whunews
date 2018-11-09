@@ -47,8 +47,6 @@ Whunews 是一个社区APP(我的毕设。。。)，主要包含浏览新闻，�
 * 其它：感谢[和风天气](http://www.heweather.com/)数据、 以及[Bmob](https://www.bmob.cn/)后端云服务平台。
 
 ## About me
-QQ: 1650443186 
-
-Blog: [https://blog.csdn.net/blog_sjt](https://blog.csdn.net/blog_sjt) 
-
-Email: jiangtaosong007@gmail.com
+- QQ: 1650443186 
+- Blog: [https://blog.csdn.net/blog_sjt](https://blog.csdn.net/blog_sjt) 
+- Email: jiangtaosong007@gmail.com
