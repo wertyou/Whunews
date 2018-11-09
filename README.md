@@ -40,6 +40,12 @@ Whunews 是一个社区APP(我的毕设。。。)，主要包含浏览新闻，�
 * 9.用`okhttp3+json`自定义框架解析填充数据。
 * 10.`Bmob`作为后台等。
 
+## Bug
+* 1.偶尔会有闪退。
+* 2.由于时间因素，天气界面只实现了武汉的天气预报，其它省份可以定位，但还是显示武汉的天气状况。
+* 3.新闻搜索功能待优化。
+* 4.待发现。。。
+
 ## Thanks
 * 参考项目：[CloudReader](https://github.com/youlookwhat/CloudReader)。
 * 参考书籍：很多代码借鉴于Android第二行代码。
