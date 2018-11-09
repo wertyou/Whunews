@@ -28,7 +28,14 @@ Whunews 是一个社区APP(我的毕设。。。)，主要包含浏览新闻，�
 <img src="https://github.com/wertyou/Whunews/blob/master/file/video1.jpg" width="180"  height="300"/>
 </div>
 
-##Features
-1.
-2.
-3.
+## Features
+* 1.基本遵循Google Material Design风格。
+* 2.SwipeRefreshLayout结合RecyclerView实现下拉刷新。
+* 3.CoordinatorLayout+Behavior实现天气界面标题栏渐变。
+* 4.Glide获取缓存以及加载圆角图片。
+* 5.集成ShareSdk实现一键分享。
+* 6.BottomNavigationView实现动态切换底部状态栏。
+* 7.RollViewPager循环播放热点新闻。
+* 8.JiaoZiVideoPlayer实现播放器列表，支持全屏播放，滑动界面改变音量，自主控制进度条等。
+* 9.用okhttp3+json自定义框架解析填充数据。
+* 10.Bmob作为后台等。
