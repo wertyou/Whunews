@@ -43,5 +43,5 @@ Whunews 是一个社区APP(我的毕设。。。)，主要包含浏览新闻，�
 ## Thanks
 * 参考项目：[CloudReader](https://github.com/youlookwhat/CloudReader)。
 * 参考书籍：很多代码借鉴于Android第二行代码。
-* 开源库：Glide,JiaoZiVideoPlayer,ShareSdk等等。
-* 其它：感谢和风天气数据，以及Bmob后端云服务平台。
+* 开源库：[Glide](https://github.com/bumptech/glide),[JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer),[ShareSdk](http://www.mob.com/product/sharesdk)等等。
+* 其它：感谢[和风天气](http://www.heweather.com/)数据，以及[Bmob](https://www.bmob.cn/)后端云服务平台。
