@@ -30,7 +30,7 @@ Whunews 是一个社区APP(我的毕设。。。)，主要包含浏览新闻，�
 
 ## Features
 * 1.基本遵循Google Material Design风格。
-* 2.SwipeRefreshLayout结合RecyclerView实现下拉刷新。
+* 2.`SwipeRefreshLayout`结合`RecyclerView`实现下拉刷新。
 * 3.CoordinatorLayout+Behavior实现天气界面标题栏渐变。
 * 4.Glide获取缓存以及加载圆角图片。
 * 5.集成ShareSdk实现一键分享。
