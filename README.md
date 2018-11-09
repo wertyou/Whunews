@@ -3,5 +3,7 @@ Whunews 是一个社区APP(我的毕设。。。)，主要包含浏览新闻，�
 
 # ScreenShot
 <center class="half">
-<img src="https://github.com/wertyou/Whunews/blob/master/file/news%20.jpg" width="200" hegiht="300" /><img src="https://github.com/wertyou/Whunews/blob/master/file/video.jpg" width="200" hegiht="300" /><img src="https://github.com/wertyou/Whunews/blob/master/file/message.jpg" width="200" hegiht="300" />
+<img src="https://github.com/wertyou/Whunews/blob/master/file/news%20.jpg" width="200" />
+<img src="https://github.com/wertyou/Whunews/blob/master/file/video.jpg" width="200"  />
+<img src="https://github.com/wertyou/Whunews/blob/master/file/message.jpg" width="200"  />
 </center>
