@@ -27,3 +27,8 @@ Whunews 是一个社区APP(我的毕设。。。)，主要包含浏览新闻，�
 
 <img src="https://github.com/wertyou/Whunews/blob/master/file/video1.jpg" width="180"  height="300"/>
 </div>
+
+##Features
+1.
+2.
+3.
