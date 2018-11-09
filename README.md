@@ -31,14 +31,14 @@ Whunews 是一个社区APP(我的毕设。。。)，主要包含浏览新闻，�
 ## Features
 * 1.基本遵循Google Material Design风格。
 * 2.`SwipeRefreshLayout`结合`RecyclerView`实现下拉刷新。
-* 3.CoordinatorLayout+Behavior实现天气界面标题栏渐变。
-* 4.Glide获取缓存以及加载圆角图片。
-* 5.集成ShareSdk实现一键分享。
-* 6.BottomNavigationView实现动态切换底部状态栏。
-* 7.RollViewPager循环播放热点新闻。
-* 8.JiaoZiVideoPlayer实现播放器列表，支持全屏播放，滑动界面改变音量，自主控制进度条等。
-* 9.用okhttp3+json自定义框架解析填充数据。
-* 10.Bmob作为后台等。
+* 3.`CoordinatorLayout`+`Behavior`实现天气界面标题栏渐变。
+* 4.`Glide`获取缓存以及加载圆角图片。
+* 5.集成`ShareSdk`实现一键分享。
+* 6.`BottomNavigationView`实现动态切换底部状态栏。
+* 7.`RollViewPager`循环播放热点新闻。
+* 8.`JiaoZiVideoPlayer`实现播放器列表，支持全屏播放，滑动界面改变音量，自主控制进度条等。
+* 9.用`okhttp3+json`自定义框架解析填充数据。
+* 10.`Bmob`作为后台等。
 
 ## Thanks
 * 参考项目：[CloudReader](https://github.com/youlookwhat/CloudReader)。
